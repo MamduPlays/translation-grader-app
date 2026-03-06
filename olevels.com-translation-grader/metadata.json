@@ -1,0 +1,7 @@
+{
+  "name": "Olevels.com Translation Grader",
+  "description": "AI-powered Urdu to English translation grader with audio recording and feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
