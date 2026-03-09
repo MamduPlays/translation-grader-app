@@ -287,7 +287,7 @@ export default function App() {
               Olevels.com <span className="text-red-600 dark:text-red-500">Translation Grader</span>
             </h1>
             <p className="text-slate-500 dark:text-slate-400 mt-1 text-sm md:text-base">
-              Master your Urdu to English translations
+              Master your translations
             </p>
           </div>
           <div className="flex items-center gap-3">
